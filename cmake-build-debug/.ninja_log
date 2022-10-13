@@ -1,0 +1,12 @@
+# ninja log v5
+1	3568	6873173937870056	CMakeFiles/arco_basico_4.dir/main.cu.obj	18ec568f5f54ba48
+3569	5252	6873173954802729	CMakeFiles/arco_basico_4.dir/cmake_device_link.obj	27defba6d9c92c7
+5252	5607	6873173958106765	arco_basico_4.exe	a8bd610ac4b3401
+2	2947	6873174790600771	CMakeFiles/arco_basico_4.dir/main.cu.obj	18ec568f5f54ba48
+2948	4510	6873174806345965	CMakeFiles/arco_basico_4.dir/cmake_device_link.obj	27defba6d9c92c7
+4511	4819	6873174808898264	arco_basico_4.exe	a8bd610ac4b3401
+2	4750	6873855421352490	CMakeFiles/arco_basico_4.dir/main.cu.obj	18ec568f5f54ba48
+4751	6532	6873855439248186	CMakeFiles/arco_basico_4.dir/cmake_device_link.obj	27defba6d9c92c7
+1	3044	6873855863840232	CMakeFiles/arco_basico_4.dir/main.cu.obj	18ec568f5f54ba48
+3045	4661	6873855880092385	CMakeFiles/arco_basico_4.dir/cmake_device_link.obj	27defba6d9c92c7
+4662	5085	6873855882759873	arco_basico_4.exe	a8bd610ac4b3401
